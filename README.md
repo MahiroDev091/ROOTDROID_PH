@@ -1,5 +1,5 @@
 # ROOTDROID_PH
-• Advance Android Rooting Tool ~ Termux
+• Advance Rooting Tool that only developed for termux users
 
 <image src="/screenshot/Screenshot_2022_0824_121213.png">
 
