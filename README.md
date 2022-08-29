@@ -10,7 +10,7 @@ https://github.com/W3BD3V09728/ROOTDROID_PH/
 
 cd ROOTDROID_PH
 
-sh install.sh
+python root.py
 
 press allow or accept the permission
 
